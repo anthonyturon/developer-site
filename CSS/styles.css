@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #263f44;
+  font-size: 1.5em;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+h2 {
+  font-family: 'Archivo Narrow', sans-serif;
+}
+
+h3 {
+  font-family: 'Archivo Narrow', sans-serif;
+}
+
+p {
+  line-height: 1.75;
+}
+
+.top-container {
+  background-color: #beebe9;
+}
+
+.top-balloon {
+  position: absolute;
+  right: 378px;
+  top: 40px;
+}
+
+.opening {
+  position: relative;
+  top: 48px;
+}
+
+.bottom-balloon {
+  position: absolute;
+  left: 365px;
+  bottom: 339px;
+}
+
+.profile {
+  margin-top: 5px;
+}
+
+.circular {
+  margin-top: 30px;
+  height: 260px;
+  border-radius: 100%;
+}
+
+.location {
+  margin-bottom: 30px;
+  width: 85%;
+  margin: 30px auto 30px auto;
+}
+
+hr {
+  border-color: #beebe9;
+  border-style: dotted none none none;
+  border-width: 10px;
+  width: 40%;
+}
+
+.my-philosophy {
+  width: 85%;
+  margin: 30px auto 30px auto;
+  text-align: left;
+  padding-bottom: 1px;
+}
+
+.philosopher {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.business-skills {
+  width: 85%;
+  margin: 30px auto 30px auto;
+  text-align: left;
+  padding-bottom: 1px;
+}
+
+.business-report {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.alignment {
+  margin-bottom: 0;
+}
+
+.contact-me {
+  margin-bottom: 40px;
+}
+
+.why-contact {
+  width: 85%;
+  margin: 30px auto 40px auto;
+}
+
+.btn {
+  font-family: 'Archivo Narrow', sans-serif;
+  color: #263F44;
+  font-size: 24px;
+  text-shadow: 1px 1px 0 #BEE2F9;
+  padding: 10px 10px;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  background: #A4D5F4;
+}
+
+.btn:hover {
+  color: #263F44;
+  background: #B6D3EC;
+  background: linear-gradient(top, #56ACFF, #BEEBE9);
+}
+
+.bottom-container {
+  padding-top: 30px;
+  background-color: #beebe9;
+  font-size: 1rem;
+}
+
+.copyright {
+  margin: 30px auto 0 auto;
+  color: #534068;
+  font-size: .95rem;
+}
+
+footer {
+  font-size: .5rem;
+}
+
+a {
+  color: #263f44;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #534068;
+}
